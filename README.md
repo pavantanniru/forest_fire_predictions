@@ -1,3 +1,7 @@
 # forest_fire_predictions
 
-go to ur commad prompt or anaconda prompt hit or enter python app.py and enjoy the application.🤞
+# Drop a ⭐ on the Github Repository.
+
+# Clone the Repo by going to your local Git Client and pushing in the command:
+
+
